@@ -1,2 +1,15 @@
 # Salary-Prediction-System
-A Java Based Salary Prediction System Project
+## About Project
+This project is developed using Java.
+
+## Technologies Used
+- Java
+- HTML
+- CSS
+- JavaScript
+
+## Features
+- Employee Details
+- Salary Prediction
+- User Friendly Interface
+  
